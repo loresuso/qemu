@@ -1,3 +1,5 @@
+Qemu part of my master thesis. Check the FX device and the part in accel/kvm
+
 ===========
 QEMU README
 ===========
